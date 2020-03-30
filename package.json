@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "package": "electron-packager . --arch=x64 --platform=win32"
   },
   "keywords": [],
   "author": "",
