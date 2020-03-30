@@ -12,5 +12,8 @@
   "dependencies": {
     "electron": "^8.2.0",
     "fso": "^2.7.0"
+  },
+  "devDependencies": {
+    "electron-packager": "^14.2.1"
   }
 }
